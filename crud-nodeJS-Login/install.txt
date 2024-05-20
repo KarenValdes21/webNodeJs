@@ -1,0 +1,11 @@
+npm init -y
+npm install express mysql ejs nodemon
+
+
+EJECUTAR PARA LOGIN: 
+npm install express express-session mysql ejs body-parser bcrypt
+
+
+
+
+node app.js
